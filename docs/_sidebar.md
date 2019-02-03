@@ -4,3 +4,4 @@
 - Scrum Methodology
   - [Framework Overview](scrum_overview.md)
   - [Ceremonies and Events](scrum_ceremonies.md)
+  - [User Stories](user_stories.md)
